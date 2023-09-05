@@ -6,13 +6,10 @@ name: Python application
 on:
   push:
     branches:
-      - main
-  pull_request_review:
-    types: [submitted]
-  check_suite:
-    types: [completed]
+      - zubair
+  pull_request:
     branches:
-      - main
+      - zubair
 
 permissions:
   contents: read
