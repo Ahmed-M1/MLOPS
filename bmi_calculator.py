@@ -11,7 +11,7 @@ def interpret_bmi(bmi):
     elif 25 <= bmi < 30:
         return "Overweight"
     else:
-        return "Obeseee"
+        return "Obeseeeeee"
 
 
 def get_bmi_category(bmi):
