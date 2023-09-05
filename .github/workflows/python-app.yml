@@ -5,7 +5,7 @@ name: Python application
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "rohaan_i200410" ]
 
   pull_request_review:
     types: [submitted]
