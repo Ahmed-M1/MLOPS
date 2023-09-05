@@ -9,5 +9,3 @@ if __name__ == "__main__":
     bmi_calculator = BMICalculator()
     bmi_calculator.show()
     sys.exit(app.exec_())
-    
-    
